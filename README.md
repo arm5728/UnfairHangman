@@ -1,6 +1,6 @@
 # UnfairHangman
 
-Hangman that perpetually adjusts word based on input.
+Hangman game that perpetually adjusts the secret word based on user input.
 
 Adrian Melendez Relli
 
